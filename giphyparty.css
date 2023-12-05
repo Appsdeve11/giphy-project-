@@ -1,0 +1,42 @@
+body {
+    background-image: url("https://th.bing.com/th/id/R.66144bacfeec30fdd53cb716e7c297a8?rik=I3cFqiNtM7IvTw&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f82%2f66%2fP9eSZm.jpg&ehk=aVObjzVhxLxFBnbzNCStGctXIfCi6prAzGYMvZ%2b8P%2bQ%3d&risl=&pid=ImgRaw&r=0");
+    padding-top: 20px;
+    margin-left: 250px;
+
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+#search{
+    margin-bottom: 30px;
+    margin-right: 50px;
+    background:white;
+
+
+
+    
+
+
+}
+
+#remove{
+    color: black;
+    background: red;
+    border-radius: 15px;
+    text-decoration: line-through;
+
+}
+
+
+input {
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    font-size: 20px;
+
+
+}
